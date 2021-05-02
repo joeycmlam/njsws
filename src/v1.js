@@ -10,3 +10,7 @@ console.log(msg);
 console.log(__dirname);
 
 console.log(__filename);
+
+console.log(process.pid)
+
+console.log(process.versions.node)
